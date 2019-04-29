@@ -1,0 +1,8 @@
+span.error-input {
+    border-color: #b94a48;
+    margin-left: 5px;
+}
+
+span.error-messages {
+    border-color: #b94a48;
+}
